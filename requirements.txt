@@ -1,1 +1,7 @@
-
+numpy
+pandas
+matplotlib
+pyarrow
+gdown
+cvxpy
+scs
