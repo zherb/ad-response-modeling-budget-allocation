@@ -1,4 +1,4 @@
-# Streaming Ad Conversion Modeling & Budget Optimization (Cold Start Scenario)
+# Streaming Ad Conversion Modeling & Budget Optimization
 
 ## Overview
 
