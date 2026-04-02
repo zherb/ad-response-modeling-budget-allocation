@@ -266,5 +266,5 @@ Outputs will be saved to:
 ## Author
 
 Zofia (Zoe) Herbermann  
-M.S. Mathematics (Expected 2025)  
+M.S. Mathematics (2025)  
 Focus: Statistical Modeling, Experimentation, Optimization, Data Science
